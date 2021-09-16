@@ -1,5 +1,6 @@
 
 ###PRIVACY POLICY
+
 #If you have a legal question or concern please just email me at: joseph.hirsch.dev@gmail.com.
 
 

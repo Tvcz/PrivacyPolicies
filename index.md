@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Tvcz/PrivacyPolicies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###PRIVACY POLICY
+#If you have a legal question or concern please just email me at: joseph.hirsch.dev@gmail.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- The data collected from NEU Banner (which is the only site from which any data is collected) while using the extension is not saved and is only transmitted to Google Calendar services.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The data collected consists only of class information such as course name, location, time, and instructors. Again, none of this is saved anywhere but to your calendar.
 
-```markdown
-Syntax highlighted code block
+- The only way your Google authentication is used is to create a new calendar and place events on it. No part of your existing calendar is read or edited.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tvcz/PrivacyPolicies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- All of this can be confirmed by looking at the source code at GitHub: https://github.com/Tvcz/AutoCalendarForNEUBanner

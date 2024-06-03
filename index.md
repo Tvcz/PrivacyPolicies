@@ -2,7 +2,7 @@
 ### If you have a legal question or concern please just email me at: joseph.hirsch.dev@gmail.com.
 
 # Privacy Policies
-### Sectioned by app
+### Sectioned by app.
 
 ## Auto Calendar for NEU Banner
 

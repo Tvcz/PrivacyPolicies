@@ -1,7 +1,10 @@
 
 ### If you have a legal question or concern please just email me at: joseph.hirsch.dev@gmail.com.
 
-# Auto Calendar for NEU Banner - PRIVACY POLICY
+# Privacy Policies
+### Sectioned by app
+
+## Auto Calendar for NEU Banner
 
 - The data collected from NEU Banner (which is the only site from which any data is collected) while using the extension is not saved and is only transmitted to Google Calendar services.
 
@@ -11,7 +14,7 @@
 
 - All of this can be confirmed by looking at the source code at GitHub: https://github.com/Tvcz/AutoCalendarForNEUBanner
 
-# 2048: Rewritten - PRIVACY POLICY
+## 2048: Rewritten
 
 - This app collects no data whatsoever. The game runs locally and no data about the users is transmitted by the app.
 

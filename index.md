@@ -14,4 +14,7 @@
 # 2048: Rewritten - PRIVACY POLICY
 
 - This app collects no data whatsoever. The game runs locally and no data about the users is transmitted by the app.
+
 - Google AdSense may collect and transmit user data, dependent on their policies.
+
+- All of this can be confirmed by looking at the source code at GitHub: https://github.com/tvcz/2048

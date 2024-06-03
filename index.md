@@ -1,7 +1,7 @@
 
-# Auto Calendar for NEU Banner - PRIVACY POLICY
-
 ### If you have a legal question or concern please just email me at: joseph.hirsch.dev@gmail.com.
+
+# Auto Calendar for NEU Banner - PRIVACY POLICY
 
 - The data collected from NEU Banner (which is the only site from which any data is collected) while using the extension is not saved and is only transmitted to Google Calendar services.
 
